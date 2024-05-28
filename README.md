@@ -1,0 +1,2 @@
+# lvgl_project
+基于lvgl制作的仿IPhone的launcher程序
