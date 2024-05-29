@@ -19,7 +19,7 @@ MAINSRC = ./main.c
 
 include $(LVGL_DIR)/lvgl/lvgl.mk
 include $(LVGL_DIR)/lv_drivers/lv_drivers.mk
-
+include $(LVGL_DIR)/lvgl_launcher/lvgl_launcher.mk
 CSRCS +=$(LVGL_DIR)/mouse_cursor_icon.c 
 
 OBJEXT ?= .o
