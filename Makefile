@@ -10,7 +10,7 @@ LDFLAGS = -lm   -lpthread
 
 CCFLAGS  = $(LOCAL_CFLAGS) $(INCLUDES) $(CFLAGS)
 
-BIN = lvgl_demo
+BIN = lvgl_launcher
 
 #Collect the files to compile
 MAINSRC = ./main.c 
